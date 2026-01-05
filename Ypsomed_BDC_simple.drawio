@@ -129,7 +129,7 @@
           <mxGeometry height="38.810126582278485" width="142.9994350240348" x="-490.5" y="1498.98" as="geometry" />
         </mxCell>
         <mxCell id="1_1ViAHtYPPxB-JqdB7n-6" parent="1" style="text;whiteSpace=wrap;html=1;container=0;fillColor=none;fontColor=light-dark(#00185b, #ededed);fontSize=15;" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Non- SAP Data Sources&lt;/span&gt;" vertex="1">
-          <mxGeometry height="27" width="171.5" x="-496.5" y="1444" as="geometry" />
+          <mxGeometry height="27" width="171.5" x="-483.5" y="1444" as="geometry" />
         </mxCell>
         <mxCell id="1_1ViAHtYPPxB-JqdB7n-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=1.5;fillColor=#fff2cc;align=center;verticalAlign=middle;fontSize=11;fontFamily=Helvetica;container=0;recursiveResize=0;collapsible=0;arcSize=12;flipV=0;flipH=1;fontStyle=1;gradientDirection=south;" value="NonNonNon" vertex="1">
           <mxGeometry height="38.810126582278485" width="142.9994350240348" x="-490.75" y="1544.02" as="geometry" />
