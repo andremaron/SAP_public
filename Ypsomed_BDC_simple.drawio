@@ -182,9 +182,6 @@
         <mxCell id="T37Bqu1oQF9o4wohrozZ-6" parent="1" style="image;image=img/lib/sap/SAP_Logo.svg;editableCssRules=.*;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;imageAspect=0;labelPosition=right;align=left;fontSize=16;fontStyle=1;spacingLeft=0;fontColor=#002A86;spacing=0;" value="" vertex="1">
           <mxGeometry height="19" width="37" x="-1248.5" y="1107" as="geometry" />
         </mxCell>
-        <mxCell id="mf58GoLxX7qSiGuR-A6c-2" edge="1" parent="1" source="T37Bqu1oQF9o4wohrozZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aleImnM5mG5gDYkD4qVE-50" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="T37Bqu1oQF9o4wohrozZ-7" parent="1" style="image;image=img/lib/sap/SAP_Logo.svg;editableCssRules=.*;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;imageAspect=0;labelPosition=right;align=left;fontSize=16;fontStyle=1;spacingLeft=0;fontColor=#002A86;spacing=0;" value="S/4HANA" vertex="1">
           <mxGeometry height="19" width="37" x="-1217" y="1161" as="geometry" />
         </mxCell>
